@@ -374,7 +374,8 @@ p {
   #dropa3,
   #dropa5,
   #dropa6,
-  #dropa7 {
+  #dropa7,
+  #dropa8 {
     margin: 0px 0px 0px 30px;
   }
 }
@@ -432,7 +433,7 @@ footer {
 }
 @media (max-width: 500px) {
   footer {
-    flex-direction: column;
+    flex-direction: row;
     height: 650px;
   }
 }
